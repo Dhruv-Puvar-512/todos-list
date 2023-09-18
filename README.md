@@ -1,38 +1,28 @@
-# Project Name
+# ToDo List
 
-Brief project description.
+A simple web-based ToDo List application that allows you to easily add, view, and delete your tasks.
 
-![Project Screenshot](screenshot.png)
+## Features
 
-## Table of Contents
+- **Add Todos:** Add tasks to your ToDo list with ease.
+- **Delete Todos:** Remove tasks you've completed or no longer need.
+- **Clean and Intuitive Interface:** A user-friendly design for managing your tasks efficiently.
+- **Responsive Design:** Access your ToDo list on various devices, including desktops, tablets, and mobile phones.
+- **Data Persistence:** Your tasks are stored locally, so they remain available even after you close the application.
 
-- [About](#about)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Demo
 
-## About
-
-Provide a brief introduction to your project, including its purpose and key features.
+You can try out the application by visiting the [ToDo List](https://example.com) demo page.
 
 ## Getting Started
 
-Explain how to set up and run your project on a user's local machine.
-
 ### Prerequisites
 
-List any software or dependencies that need to be installed before running your project.
-
-- [Example Prerequisite](https://example.com)
+- [Web Browser](https://www.google.com/chrome/)
 
 ### Installation
 
-Step-by-step instructions on how to install and configure your project.
-
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/project-name.git
+   ```sh
+   git clone https://github.com/Dhruv-Puvar-512/todos-list.git

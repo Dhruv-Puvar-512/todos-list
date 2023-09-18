@@ -18,7 +18,10 @@ You can try out the application by visiting the [ToDo List](https://example.com)
 
 ### Prerequisites
 
-- [Web Browser](https://www.google.com/chrome/)
+- [React]
+- [Html]
+- [CSS]
+- [JS]
 
 ### Installation
 
